@@ -11,8 +11,7 @@ type: course
 uid: 92b82e68b3f944adce0dd823c6f37ac1
 
 ---
-
-The readings listed below are the foundation of this course. Where available, journal article abstracts from [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed) (an online database providing access to citations from biomedical literature) are included. This list has been compiled by the Department of Brain and Cognitive Sciences, not the course instructor.
+TEST - The readings listed below are the foundation of this course. Where available, journal article abstracts from [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed) (an online database providing access to citations from biomedical literature) are included. This list has been compiled by the Department of Brain and Cognitive Sciences, not the course instructor.
 
 A: Foundations of Cognitive Science
 -----------------------------------
