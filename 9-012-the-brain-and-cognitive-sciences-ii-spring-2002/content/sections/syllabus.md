@@ -11,7 +11,6 @@ type: course
 uid: acbc494689179615b0d554c1612dda8a
 
 ---
-
 Course Meeting Times
 --------------------
 
@@ -39,4 +38,4 @@ Two class presentations, based on the following topics:
 *   Information Processing and Capacity Limits
 *   Working Memory & Attention
 *   Similarity, Analogy, Categorization, Language, and Thought
-*   How to Distinguish Processing from Competence Models of Language Development
+*   How to Distinguish Processing from Competence Models of Language Development - test test test
